@@ -19,6 +19,6 @@
     - 输入：barcodesWithQuantity:{barcoude:string,name:string,quantity:int,unit price:int,subtotal:int}、total:int
     - 输出：receipt:string
 ### 上下文图如下:
-![加载失败](https://github.com/wyuefzhuol/POS-system/raw/master/POSsystem.png)
+![加载失败](https://github.com/wyuefzhuol/POS-system/blob/master/POSsystem.png)
 ### PDCA分析如下:
 | 
